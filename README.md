@@ -4,4 +4,4 @@ working on [knowledge graphs & NLP](https://github.com/TheScienceMuseum/heritage
 
 previously NLP & conversational AI at IBM.
 
-get in touch: twitter [@KDutia](https://twitter.com/KDutia)
+get in touch on twitter [@KDutia](https://twitter.com/KDutia)
