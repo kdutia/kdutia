@@ -1,4 +1,4 @@
-👋 
+👋🏼
 
 working on [knowledge graphs & NLP](https://github.com/TheScienceMuseum/heritage-connector) at the Science Museum.
 
